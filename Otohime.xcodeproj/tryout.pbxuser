@@ -118,14 +118,14 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 274621627;
-			PBXWorkspaceStateSaveDate = 274621627;
+			PBXPerProjectTemplateStateSaveDate = 274625012;
+			PBXWorkspaceStateSaveDate = 274625012;
 		};
 		perUserProjectItems = {
-			311DEFC4105E6D8400BEACD6 /* PlistBookmark */ = 311DEFC4105E6D8400BEACD6 /* PlistBookmark */;
-			311DEFC5105E6D8400BEACD6 /* PlistBookmark */ = 311DEFC5105E6D8400BEACD6 /* PlistBookmark */;
 			31568D75103EAA9E004CA82A /* PBXBookmark */ = 31568D75103EAA9E004CA82A /* PBXBookmark */;
 			31568D76103EAA9E004CA82A /* PBXBookmark */ = 31568D76103EAA9E004CA82A /* PBXBookmark */;
+			31BC6444105E723300735472 /* PlistBookmark */ = 31BC6444105E723300735472 /* PlistBookmark */;
+			31BC6445105E723300735472 /* PlistBookmark */ = 31BC6445105E723300735472 /* PlistBookmark */;
 			31C16F3D10451FDE00EDEF5F /* PBXTextBookmark */ = 31C16F3D10451FDE00EDEF5F /* PBXTextBookmark */;
 			31C16F6E10452AB800EDEF5F /* PBXTextBookmark */ = 31C16F6E10452AB800EDEF5F /* PBXTextBookmark */;
 			31C16F7010452AB800EDEF5F /* PBXTextBookmark */ = 31C16F7010452AB800EDEF5F /* PBXTextBookmark */;
@@ -147,28 +147,6 @@
 			sepNavSelRange = "{328, 0}";
 			sepNavVisRange = "{0, 373}";
 		};
-	};
-	311DEFC4105E6D8400BEACD6 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* Otohime-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = "/Users/tryout/Documents/XCode/Otohime/Otohime-Info.plist";
-		rLen = 0;
-		rLoc = 9223372036854775807;
-	};
-	311DEFC5105E6D8400BEACD6 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* Otohime-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = "/Users/tryout/Documents/XCode/Otohime/Otohime-Info.plist";
-		rLen = 0;
-		rLoc = 9223372036854775807;
 	};
 	3121845A103E7D2B00F12E7E /* MainViewController.m:70 */ = {
 		isa = PBXFileBreakpoint;
@@ -337,6 +315,28 @@
 	31568D76103EAA9E004CA82A /* PBXBookmark */ = {
 		isa = PBXBookmark;
 		fRef = 31568D70103EA8F4004CA82A /* selected_play_button.png */;
+	};
+	31BC6444105E723300735472 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Otohime-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/tryout/Documents/XCode/Otohime/Otohime-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	31BC6445105E723300735472 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Otohime-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/tryout/Documents/XCode/Otohime/Otohime-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
 	};
 	31C16F3D10451FDE00EDEF5F /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
