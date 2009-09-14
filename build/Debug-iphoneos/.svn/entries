@@ -1,34 +1,0 @@
-10
-
-dir
-129
-svn+ssh://tryout-lab@tryout-lab.com/var/svn/repos/trunk/Otohime/build/Debug-iphoneos
-svn+ssh://tryout-lab@tryout-lab.com/var/svn/repos
-
-
-
-2009-08-28T01:31:18.852532Z
-129
-tryout-lab
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-fdab78e1-abe4-4562-88de-5d98f3b9c051
-
-Otohime.app
-dir
-
-Otohime.app.dSYM
-dir
-
