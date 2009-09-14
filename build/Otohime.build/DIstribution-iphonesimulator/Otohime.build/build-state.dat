@@ -1,0 +1,353 @@
+TOtohime
+v7
+r0
+t274275721.592780
+cCheck dependencies
+cProcessInfoPlistFile /Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app/Info.plist Otohime-Info.plist
+cCpResource build/DIstribution-iphonesimulator/Otohime.app/mainImage.png ../../../Pictures/Otohime/mainImage.png
+cCpResource build/DIstribution-iphonesimulator/Otohime.app/play_button.png play_button.png
+cCpResource build/DIstribution-iphonesimulator/Otohime.app/selected_play_button.png selected_play_button.png
+cCpResource build/DIstribution-iphonesimulator/Otohime.app/seseragi.mp3 ../../../Pictures/Otohime/seseragi.mp3
+cCpResource build/DIstribution-iphonesimulator/Otohime.app/Icon.png ../../../Pictures/Otohime/Icon.png
+cCpResource build/DIstribution-iphonesimulator/Otohime.app/Default.png Default.png
+cCopyPlistFile /Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app/Entitlements.plist Entitlements.plist
+cProcessPCH /var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Otohime_Prefix-bvuroomruvstbjebggcuanxcpqjx/Otohime_Prefix.pch.gch Otohime_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/Objects-normal/i386/main.o /Users/tryout/Documents/XCode/Otohime/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/Objects-normal/i386/OtohimeAppDelegate.o /Users/tryout/Documents/XCode/Otohime/Classes/OtohimeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/Objects-normal/i386/MainViewController.o /Users/tryout/Documents/XCode/Otohime/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app/Otohime normal i386
+cGenerateDSYMFile /Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app.dSYM /Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app/Otohime
+cTouch /Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A7690A400000000000000EE
+t1249284260
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004A0BB032000000000000FBE0
+t1242279986
+s64480
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVAudioPlayer.h
+c000000004A0BB0300000000000000ED7
+t1242279984
+s3799
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004A0BB03000000000000000EB
+t1242279984
+s235
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026DB00
+t1242278438
+s2546432
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000260C20
+t1242278711
+s2493472
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001432D80
+t1242349407
+s21179776
+
+N/Users/tryout/Documents/XCode/Otohime/../../../Pictures/Otohime/Icon.png
+c000000004A925E88000000000000D92D
+t1251106440
+s55597
+
+N/Users/tryout/Documents/XCode/Otohime/../../../Pictures/Otohime/mainImage.png
+c000000004A8E7043000000000000E206
+t1250848835
+s57862
+
+N/Users/tryout/Documents/XCode/Otohime/../../../Pictures/Otohime/seseragi.mp3
+c000000004A92484A0000000000056BC1
+t1251100746
+s355265
+
+N/Users/tryout/Documents/XCode/Otohime/Classes/MainViewController.h
+c000000004A9A30680000000000000176
+t1251618920
+s374
+i<UIKit/UIKit.h>
+
+N/Users/tryout/Documents/XCode/Otohime/Classes/MainViewController.m
+c000000004A9A30680000000000000F97
+t1251618920
+s3991
+i"AVFoundation/AVAudioPlayer.h"
+i"MainViewController.h"
+i"AVFoundation/AVFoundation.h"
+
+N/Users/tryout/Documents/XCode/Otohime/Classes/OtohimeAppDelegate.h
+c000000004A9A306800000000000001D5
+t1251618920
+s469
+i<UIKit/UIKit.h>
+
+N/Users/tryout/Documents/XCode/Otohime/Classes/OtohimeAppDelegate.m
+c000000004A9A3068000000000000033B
+t1251618920
+s827
+i"AVFoundation/AVAudioPlayer.h"
+i"OtohimeAppDelegate.h"
+i"MainViewController.h"
+
+N/Users/tryout/Documents/XCode/Otohime/Default.png
+c000000004A9A30680000000000014727
+t1251618920
+s83751
+
+N/Users/tryout/Documents/XCode/Otohime/Entitlements.plist
+c000000004A9A306800000000000000E1
+t1251618920
+s225
+
+N/Users/tryout/Documents/XCode/Otohime/Otohime_Prefix.pch
+c000000004A9A306800000000000000B7
+t1251618920
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app
+t1251619001
+s442
+
+N/Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app.dSYM
+t1251619001
+s136
+
+N/Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app/Default.png
+t1251618999
+s83751
+
+N/Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app/Entitlements.plist
+t1251618999
+s62
+
+N/Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app/Icon.png
+t1251618918
+s55597
+
+N/Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app/Info.plist
+t1251618999
+s541
+
+N/Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app/Otohime
+t1251619001
+s20772
+
+N/Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app/PkgInfo
+t1251618999
+s8
+
+N/Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app/mainImage.png
+t1251618918
+s57862
+
+N/Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app/play_button.png
+t1251618999
+s66885
+
+N/Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app/selected_play_button.png
+t1251618999
+s68256
+
+N/Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app/seseragi.mp3
+t1251618918
+s355265
+
+N/Users/tryout/Documents/XCode/Otohime/build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/Objects-normal/i386/MainViewController.o
+t1251619000
+s39816
+
+N/Users/tryout/Documents/XCode/Otohime/build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/Objects-normal/i386/Otohime.LinkFileList
+c000000004A9A3067000000000000019C
+t1251618919
+s412
+
+N/Users/tryout/Documents/XCode/Otohime/build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/Objects-normal/i386/OtohimeAppDelegate.o
+t1251619000
+s38748
+
+N/Users/tryout/Documents/XCode/Otohime/build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/Objects-normal/i386/main.o
+t1251619000
+s6096
+
+N/Users/tryout/Documents/XCode/Otohime/main.m
+c000000004A9A3068000000000000017D
+t1251618920
+s381
+i<UIKit/UIKit.h>
+
+N/Users/tryout/Documents/XCode/Otohime/play_button.png
+c000000004A9A30680000000000010545
+t1251618920
+s66885
+
+N/Users/tryout/Documents/XCode/Otohime/selected_play_button.png
+c000000004A9A30680000000000010AA0
+t1251618920
+s68256
+
+N/var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Otohime_Prefix-bvuroomruvstbjebggcuanxcpqjx/Otohime_Prefix.pch.gch
+t1251619000
+s12666256
+
+NOtohime-Info.plist
+c000000004A9A30680000000000000344
+t1251618920
+s836
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies274275721#274275721#0(0"0(0#1#0"4371640#0"0#
+
+CCompileC build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/Objects-normal/i386/MainViewController.o /Users/tryout/Documents/XCode/Otohime/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s273311800.576241
+e273311800.692730
+r1
+xCompileC
+xbuild/Otohime.build/DIstribution-iphonesimulator/Otohime.build/Objects-normal/i386/MainViewController.o
+x/Users/tryout/Documents/XCode/Otohime/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/tryout/Documents/XCode/Otohime/Classes/MainViewController.m273311800#273311800#0(0"0(0#0#66"/Users/tryout/Documents/XCode/Otohime/Classes/MainViewController.m2416205120#1962"    cd /Users/tryout/Documents/XCode/Otohime    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/tryout/Documents/XCode/Otohime/build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/Otohime-generated-files.hmap -I/Users/tryout/Documents/XCode/Otohime/build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/Otohime-own-target-headers.hmap -I/Users/tryout/Documents/XCode/Otohime/build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/Otohime-all-target-headers.hmap -iquote /Users/tryout/Documents/XCode/Otohime/build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/Otohime-project-headers.hmap -F/Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator -I/Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/include -I/Users/tryout/Documents/XCode/Otohime/build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/DerivedSources/i386 -I/Users/tryout/Documents/XCode/Otohime/build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/DerivedSources -include /var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Otohime_Prefix-bvuroomruvstbjebggcuanxcpqjx/Otohime_Prefix.pch -c /Users/tryout/Documents/XCode/Otohime/Classes/MainViewController.m -o /Users/tryout/Documents/XCode/Otohime/build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/Objects-normal/i386/MainViewController.o0#
+
+CCompileC build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/Objects-normal/i386/OtohimeAppDelegate.o /Users/tryout/Documents/XCode/Otohime/Classes/OtohimeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s273311800.423660
+e273311800.600730
+r1
+xCompileC
+xbuild/Otohime.build/DIstribution-iphonesimulator/Otohime.build/Objects-normal/i386/OtohimeAppDelegate.o
+x/Users/tryout/Documents/XCode/Otohime/Classes/OtohimeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/tryout/Documents/XCode/Otohime/Classes/OtohimeAppDelegate.m273311800#273311800#0(0"0(0#0#66"/Users/tryout/Documents/XCode/Otohime/Classes/OtohimeAppDelegate.m2416205120#1962"    cd /Users/tryout/Documents/XCode/Otohime    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/tryout/Documents/XCode/Otohime/build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/Otohime-generated-files.hmap -I/Users/tryout/Documents/XCode/Otohime/build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/Otohime-own-target-headers.hmap -I/Users/tryout/Documents/XCode/Otohime/build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/Otohime-all-target-headers.hmap -iquote /Users/tryout/Documents/XCode/Otohime/build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/Otohime-project-headers.hmap -F/Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator -I/Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/include -I/Users/tryout/Documents/XCode/Otohime/build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/DerivedSources/i386 -I/Users/tryout/Documents/XCode/Otohime/build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/DerivedSources -include /var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Otohime_Prefix-bvuroomruvstbjebggcuanxcpqjx/Otohime_Prefix.pch -c /Users/tryout/Documents/XCode/Otohime/Classes/OtohimeAppDelegate.m -o /Users/tryout/Documents/XCode/Otohime/build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/Objects-normal/i386/OtohimeAppDelegate.o0#
+
+CCompileC build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/Objects-normal/i386/main.o /Users/tryout/Documents/XCode/Otohime/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s273311800.422362
+e273311800.576145
+r1
+xCompileC
+xbuild/Otohime.build/DIstribution-iphonesimulator/Otohime.build/Objects-normal/i386/main.o
+x/Users/tryout/Documents/XCode/Otohime/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/tryout/Documents/XCode/Otohime/main.m273311800#273311800#0(0"0(0#0#44"/Users/tryout/Documents/XCode/Otohime/main.m2416205120#1926"    cd /Users/tryout/Documents/XCode/Otohime    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/tryout/Documents/XCode/Otohime/build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/Otohime-generated-files.hmap -I/Users/tryout/Documents/XCode/Otohime/build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/Otohime-own-target-headers.hmap -I/Users/tryout/Documents/XCode/Otohime/build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/Otohime-all-target-headers.hmap -iquote /Users/tryout/Documents/XCode/Otohime/build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/Otohime-project-headers.hmap -F/Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator -I/Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/include -I/Users/tryout/Documents/XCode/Otohime/build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/DerivedSources/i386 -I/Users/tryout/Documents/XCode/Otohime/build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/DerivedSources -include /var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Otohime_Prefix-bvuroomruvstbjebggcuanxcpqjx/Otohime_Prefix.pch -c /Users/tryout/Documents/XCode/Otohime/main.m -o /Users/tryout/Documents/XCode/Otohime/build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/Objects-normal/i386/main.o0#
+
+CCopyPlistFile /Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app/Entitlements.plist Entitlements.plist
+s273311799.498696
+e273311799.672575
+r1
+xCopyPlistFile
+x/Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app/Entitlements.plist
+xEntitlements.plist
+lSLF07#2@23"Copy Entitlements.plist273311799#273311799#0(0"0(0#0#56"/Users/tryout/Documents/XCode/Otohime/Entitlements.plist2416205120#398"    cd /Users/tryout/Documents/XCode/Otohime    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Entitlements.plist --outdir /Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app0#
+
+CCpResource build/DIstribution-iphonesimulator/Otohime.app/Default.png Default.png
+s273311799.498103
+e273311799.565360
+r1
+xCpResource
+xbuild/DIstribution-iphonesimulator/Otohime.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png273311799#273311799#0(0"0(0#0#49"/Users/tryout/Documents/XCode/Otohime/Default.png2416205120#480"    cd /Users/tryout/Documents/XCode/Otohime    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/tryout/Documents/XCode/Otohime/Default.png /Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app0#
+
+CCpResource build/DIstribution-iphonesimulator/Otohime.app/Icon.png ../../../Pictures/Otohime/Icon.png
+r0
+
+CCpResource build/DIstribution-iphonesimulator/Otohime.app/mainImage.png ../../../Pictures/Otohime/mainImage.png
+r0
+
+CCpResource build/DIstribution-iphonesimulator/Otohime.app/play_button.png play_button.png
+s273311799.486085
+e273311799.551931
+r1
+xCpResource
+xbuild/DIstribution-iphonesimulator/Otohime.app/play_button.png
+xplay_button.png
+lSLF07#2@20"Copy play_button.png273311799#273311799#0(0"0(0#0#53"/Users/tryout/Documents/XCode/Otohime/play_button.png4854736#484"    cd /Users/tryout/Documents/XCode/Otohime    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/tryout/Documents/XCode/Otohime/play_button.png /Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app0#
+
+CCpResource build/DIstribution-iphonesimulator/Otohime.app/selected_play_button.png selected_play_button.png
+s273311799.496992
+e273311799.565573
+r1
+xCpResource
+xbuild/DIstribution-iphonesimulator/Otohime.app/selected_play_button.png
+xselected_play_button.png
+lSLF07#2@29"Copy selected_play_button.png273311799#273311799#0(0"0(0#0#62"/Users/tryout/Documents/XCode/Otohime/selected_play_button.png2416205120#493"    cd /Users/tryout/Documents/XCode/Otohime    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/tryout/Documents/XCode/Otohime/selected_play_button.png /Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app0#
+
+CCpResource build/DIstribution-iphonesimulator/Otohime.app/seseragi.mp3 ../../../Pictures/Otohime/seseragi.mp3
+r0
+
+CGenerateDSYMFile /Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app.dSYM /Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app/Otohime
+s273311801.083519
+e273311801.134118
+r1
+xGenerateDSYMFile
+x/Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app.dSYM
+x/Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app/Otohime
+lSLF07#2@123"GenerateDSYMFile build/DIstribution-iphonesimulator/Otohime.app.dSYM build/DIstribution-iphonesimulator/Otohime.app/Otohime273311801#273311801#0(0"0(0#0#92"/Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app/Otohime2416205120#394"    cd /Users/tryout/Documents/XCode/Otohime    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app/Otohime -o /Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app.dSYM0#
+
+CLd /Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app/Otohime normal i386
+s273311800.692826
+e273311801.083337
+r1
+xLd
+x/Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app/Otohime
+xnormal
+xi386
+lSLF07#2@97"Link /Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app/Otohime273311800#273311801#0(0"0(0#0#0"2416205120#909"    cd /Users/tryout/Documents/XCode/Otohime    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator -F/Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator -filelist /Users/tryout/Documents/XCode/Otohime/build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/Objects-normal/i386/Otohime.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework AVFoundation -o /Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app/Otohime0#
+
+CProcessInfoPlistFile /Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app/Info.plist Otohime-Info.plist
+s273311799.458291
+e273311799.485892
+r1
+xProcessInfoPlistFile
+x/Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app/Info.plist
+xOtohime-Info.plist
+lSLF07#2@26"Process Otohime-Info.plist273311799#273311799#0(0"0(0#0#56"/Users/tryout/Documents/XCode/Otohime/Otohime-Info.plist4371640#490"    cd /Users/tryout/Documents/XCode/Otohime    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Otohime-Info.plist -genpkginfo /Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app/Info.plist0#
+
+CProcessPCH /var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Otohime_Prefix-bvuroomruvstbjebggcuanxcpqjx/Otohime_Prefix.pch.gch Otohime_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s273311799.672955
+e273311800.422223
+r1
+xProcessPCH
+x/var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Otohime_Prefix-bvuroomruvstbjebggcuanxcpqjx/Otohime_Prefix.pch.gch
+xOtohime_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Otohime_Prefix.pch273311799#273311800#0(0"0(0#0#56"/Users/tryout/Documents/XCode/Otohime/Otohime_Prefix.pch2416205120#1812"    cd /Users/tryout/Documents/XCode/Otohime    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/tryout/Documents/XCode/Otohime/build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/Otohime-generated-files.hmap -I/Users/tryout/Documents/XCode/Otohime/build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/Otohime-own-target-headers.hmap -I/Users/tryout/Documents/XCode/Otohime/build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/Otohime-all-target-headers.hmap -iquote /Users/tryout/Documents/XCode/Otohime/build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/Otohime-project-headers.hmap -F/Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator -I/Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/include -I/Users/tryout/Documents/XCode/Otohime/build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/DerivedSources/i386 -I/Users/tryout/Documents/XCode/Otohime/build/Otohime.build/DIstribution-iphonesimulator/Otohime.build/DerivedSources -c /Users/tryout/Documents/XCode/Otohime/Otohime_Prefix.pch -o /var/folders/Cc/Cc91qcUEG8CpbLfYHVf8SU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Otohime_Prefix-bvuroomruvstbjebggcuanxcpqjx/Otohime_Prefix.pch.gch0#
+
+CTouch /Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app
+s273311801.134211
+e273311801.137053
+r1
+xTouch
+x/Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app
+lSLF07#2@90"Touch /Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app273311801#273311801#0(0"0(0#0#0"2416205120#283"    cd /Users/tryout/Documents/XCode/Otohime    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/tryout/Documents/XCode/Otohime/build/DIstribution-iphonesimulator/Otohime.app0#
+

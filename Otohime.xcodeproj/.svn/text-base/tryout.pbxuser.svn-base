@@ -1,0 +1,695 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* OtohimeAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {661, 376}}";
+			sepNavSelRange = "{453, 0}";
+			sepNavVisRange = "{0, 461}";
+		};
+	};
+	1D3623250D0F684500981E51 /* OtohimeAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {661, 576}}";
+			sepNavSelRange = "{402, 0}";
+			sepNavVisRange = "{179, 631}";
+			sepNavWindowFrame = "{{35, 79}, {750, 558}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Otohime */ = {
+		activeExec = 0;
+		executables = (
+			31D1E7EF103A787A0089785C /* Otohime */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = DIstribution;
+		activeExecutable = 31D1E7EF103A787A0089785C /* Otohime */;
+		activeSDKPreference = iphoneos3.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Otohime */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Otohime */,
+		);
+		breakpoints = (
+			3121845A103E7D2B00F12E7E /* MainViewController.m:70 */,
+			3121845C103E7D2D00F12E7E /* MainViewController.m:70 */,
+			3121845E103E7D2E00F12E7E /* MainViewController.m:70 */,
+			3121846E103E7D4800F12E7E /* MainViewController.m:20 */,
+			31218470103E7D5C00F12E7E /* MainViewController.m:70 */,
+			31218472103E7D5E00F12E7E /* MainViewController.m:70 */,
+			3121847F103E7FF500F12E7E /* MainViewController.m:68 */,
+			31218485103E81EB00F12E7E /* MainViewController.m:70 */,
+			31218487103E81EB00F12E7E /* MainViewController.m:70 */,
+			31C5844C104130B200E3216B /* MainViewController.m:101 */,
+		);
+		codeSenseManager = 31D1E7F4103A788E0089785C /* Code sense */;
+		executables = (
+			31D1E7EF103A787A0089785C /* Otohime */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					373,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					371,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					483,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					443,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 273115797;
+			PBXWorkspaceStateSaveDate = 273115797;
+		};
+		perUserProjectItems = {
+			31446CF6103E36A900A2F7BB = 31446CF6103E36A900A2F7BB /* PBXBookmark */;
+			31568D74103EAA9E004CA82A = 31568D74103EAA9E004CA82A /* PBXBookmark */;
+			31568D75103EAA9E004CA82A = 31568D75103EAA9E004CA82A /* PBXBookmark */;
+			31568D76103EAA9E004CA82A = 31568D76103EAA9E004CA82A /* PBXBookmark */;
+			31568D7A103EAA9E004CA82A = 31568D7A103EAA9E004CA82A /* PBXBookmark */;
+			31568D7B103EAA9E004CA82A = 31568D7B103EAA9E004CA82A /* PBXBookmark */;
+			3158B6A11046B63E009E310F = 3158B6A11046B63E009E310F /* PBXBookmark */;
+			3158B6A21046CA9E009E310F = 3158B6A21046CA9E009E310F /* PlistBookmark */;
+			3158B6A31046CA9E009E310F = 3158B6A31046CA9E009E310F /* PlistBookmark */;
+			3158B6A61046CA9E009E310F = 3158B6A61046CA9E009E310F /* PlistBookmark */;
+			31C16F3D10451FDE00EDEF5F = 31C16F3D10451FDE00EDEF5F /* PBXTextBookmark */;
+			31C16F5110451FDE00EDEF5F = 31C16F5110451FDE00EDEF5F /* PBXTextBookmark */;
+			31C16F6E10452AB800EDEF5F = 31C16F6E10452AB800EDEF5F /* PBXTextBookmark */;
+			31C16F7010452AB800EDEF5F = 31C16F7010452AB800EDEF5F /* PBXTextBookmark */;
+			31C40514103ACD1E002E4F0D = 31C40514103ACD1E002E4F0D /* PBXTextBookmark */;
+			31C40515103ACD1E002E4F0D = 31C40515103ACD1E002E4F0D /* PBXTextBookmark */;
+			31C40517103ACD1E002E4F0D = 31C40517103ACD1E002E4F0D /* PBXTextBookmark */;
+			31C40518103ACD1E002E4F0D = 31C40518103ACD1E002E4F0D /* PBXTextBookmark */;
+			31D1E7FA103A7C570089785C = 31D1E7FA103A7C570089785C /* PBXTextBookmark */;
+			31D1E7FB103A7C570089785C = 31D1E7FB103A7C570089785C /* PBXTextBookmark */;
+			31D1E7FD103A7C570089785C = 31D1E7FD103A7C570089785C /* PBXTextBookmark */;
+			31D1E7FE103A7C570089785C = 31D1E7FE103A7C570089785C /* PlistBookmark */;
+			31D1E800103A7C570089785C = 31D1E800103A7C570089785C /* PBXTextBookmark */;
+			31D75ED11041591600333C14 = 31D75ED11041591600333C14 /* PBXTextBookmark */;
+			31D75ED51041591600333C14 = 31D75ED51041591600333C14 /* PBXTextBookmark */;
+			31E988AF1046A16100FC6286 = 31E988AF1046A16100FC6286 /* PBXTextBookmark */;
+			31E988CD1046AA4D00FC6286 = 31E988CD1046AA4D00FC6286 /* PBXBookmark */;
+			31E988CF1046AA4D00FC6286 = 31E988CF1046AA4D00FC6286 /* PBXBookmark */;
+			31EF84761046AE260063877D = 31EF84761046AE260063877D /* PBXTextBookmark */;
+			31EF84801046AEA90063877D = 31EF84801046AEA90063877D /* PlistBookmark */;
+			31EF84821046AEA90063877D = 31EF84821046AEA90063877D /* PlistBookmark */;
+		};
+		sourceControlManager = 31D1E7F3103A788E0089785C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 254}}";
+			sepNavSelRange = "{328, 0}";
+			sepNavVisRange = "{0, 373}";
+		};
+	};
+	3121845A103E7D2B00F12E7E /* MainViewController.m:70 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 31C4050C103AC2FF002E4F0D /* MainViewController.m */;
+		functionName = "-drawRect:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 70;
+		location = Otohime;
+		modificationTime = 273063432.1302739;
+		state = 2;
+	};
+	3121845C103E7D2D00F12E7E /* MainViewController.m:70 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 31C4050C103AC2FF002E4F0D /* MainViewController.m */;
+		functionName = "-drawRect:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 70;
+		location = Otohime;
+		modificationTime = 273063432.130293;
+		state = 2;
+	};
+	3121845E103E7D2E00F12E7E /* MainViewController.m:70 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 31C4050C103AC2FF002E4F0D /* MainViewController.m */;
+		functionName = "-drawRect:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 70;
+		location = Otohime;
+		modificationTime = 273063432.130299;
+		state = 1;
+	};
+	3121846E103E7D4800F12E7E /* MainViewController.m:20 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 31C4050C103AC2FF002E4F0D /* MainViewController.m */;
+		functionName = "-init";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 20;
+		location = Otohime;
+		modificationTime = 273063432.130303;
+		state = 2;
+	};
+	31218470103E7D5C00F12E7E /* MainViewController.m:70 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 31C4050C103AC2FF002E4F0D /* MainViewController.m */;
+		functionName = "-initWithFrame:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 70;
+		location = Otohime;
+		modificationTime = 273063432.130313;
+		state = 2;
+	};
+	31218472103E7D5E00F12E7E /* MainViewController.m:70 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 31C4050C103AC2FF002E4F0D /* MainViewController.m */;
+		functionName = "-initWithFrame:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 70;
+		location = Otohime;
+		modificationTime = 273063432.130319;
+		state = 2;
+	};
+	3121847F103E7FF500F12E7E /* MainViewController.m:68 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 31C4050C103AC2FF002E4F0D /* MainViewController.m */;
+		functionName = "-loadView";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 68;
+		location = Otohime;
+		modificationTime = 273063432.1303331;
+		state = 2;
+	};
+	31218485103E81EB00F12E7E /* MainViewController.m:70 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 31C4050C103AC2FF002E4F0D /* MainViewController.m */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 70;
+		location = Otohime;
+		modificationTime = 273063432.13034;
+		state = 2;
+	};
+	31218487103E81EB00F12E7E /* MainViewController.m:70 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 31C4050C103AC2FF002E4F0D /* MainViewController.m */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 70;
+		location = Otohime;
+		modificationTime = 273063432.130347;
+		state = 2;
+	};
+	31446CF6103E36A900A2F7BB /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 31446CE9103E329B00A2F7BB /* mainImage.png */;
+	};
+	31568D74103EAA9E004CA82A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 31446CE9103E329B00A2F7BB /* mainImage.png */;
+	};
+	31568D75103EAA9E004CA82A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 31568D6E103EA8E1004CA82A /* play_button.png */;
+	};
+	31568D76103EAA9E004CA82A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 31568D70103EA8F4004CA82A /* selected_play_button.png */;
+	};
+	31568D7A103EAA9E004CA82A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 31568D6E103EA8E1004CA82A /* play_button.png */;
+	};
+	31568D7B103EAA9E004CA82A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 31568D70103EA8F4004CA82A /* selected_play_button.png */;
+	};
+	3158B6A11046B63E009E310F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Otohime-Info.plist */;
+	};
+	3158B6A21046CA9E009E310F /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Otohime-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/tryout/Documents/XCode/Otohime/Otohime-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	3158B6A31046CA9E009E310F /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Otohime-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/tryout/Documents/XCode/Otohime/Otohime-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	3158B6A61046CA9E009E310F /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Otohime-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/tryout/Documents/XCode/Otohime/Otohime-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	31C16F3D10451FDE00EDEF5F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 31C16F3E10451FDE00EDEF5F /* AVAudioPlayer.h */;
+		name = "AVAudioPlayer.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 765;
+		vrLoc = 0;
+	};
+	31C16F3E10451FDE00EDEF5F /* AVAudioPlayer.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = AVAudioPlayer.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVAudioPlayer.h;
+		sourceTree = "<absolute>";
+	};
+	31C16F5110451FDE00EDEF5F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 31C16F5210451FDE00EDEF5F /* AVAudioPlayer.h */;
+		name = "AVAudioPlayer.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 765;
+		vrLoc = 0;
+	};
+	31C16F5210451FDE00EDEF5F /* AVAudioPlayer.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = AVAudioPlayer.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVAudioPlayer.h;
+		sourceTree = "<absolute>";
+	};
+	31C16F6E10452AB800EDEF5F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 31C4050B103AC2FF002E4F0D /* MainViewController.h */;
+		name = "MainViewController.h: 13";
+		rLen = 106;
+		rLoc = 251;
+		rType = 0;
+		vrLen = 366;
+		vrLoc = 0;
+	};
+	31C16F7010452AB800EDEF5F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* OtohimeAppDelegate.m */;
+		name = "OtohimeAppDelegate.m: 20";
+		rLen = 0;
+		rLoc = 402;
+		rType = 0;
+		vrLen = 631;
+		vrLoc = 179;
+	};
+	31C4050B103AC2FF002E4F0D /* MainViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {661, 353}}";
+			sepNavSelRange = "{251, 106}";
+			sepNavVisRange = "{0, 366}";
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+	31C4050C103AC2FF002E4F0D /* MainViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {661, 2090}}";
+			sepNavSelRange = "{3552, 0}";
+			sepNavVisRange = "{3144, 461}";
+		};
+	};
+	31C40514103ACD1E002E4F0D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* OtohimeAppDelegate.h */;
+		name = "OtohimeAppDelegate.h: 24";
+		rLen = 0;
+		rLoc = 347;
+		rType = 0;
+		vrLen = 268;
+		vrLoc = 140;
+	};
+	31C40515103ACD1E002E4F0D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* OtohimeAppDelegate.m */;
+		name = "OtohimeAppDelegate.m: 43";
+		rLen = 0;
+		rLoc = 458;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 797;
+	};
+	31C40517103ACD1E002E4F0D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 31C4050B103AC2FF002E4F0D /* MainViewController.h */;
+		name = "MainViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 226;
+		vrLoc = 0;
+	};
+	31C40518103ACD1E002E4F0D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 31C4050C103AC2FF002E4F0D /* MainViewController.m */;
+		name = "MainViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 568;
+		vrLoc = 0;
+	};
+	31C5844C104130B200E3216B /* MainViewController.m:101 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 31C4050C103AC2FF002E4F0D /* MainViewController.m */;
+		functionName = "-touchesBegan:withEvent:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 101;
+		location = Otohime;
+		modificationTime = 273063432.130353;
+		state = 2;
+	};
+	31D1E7EF103A787A0089785C /* Otohime */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Otohime;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	31D1E7F3103A788E0089785C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	31D1E7F4103A788E0089785C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	31D1E7FA103A7C570089785C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* Otohime_Prefix.pch */;
+		name = "Otohime_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 183;
+		vrLoc = 0;
+	};
+	31D1E7FB103A7C570089785C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 14";
+		rLen = 0;
+		rLoc = 328;
+		rType = 0;
+		vrLen = 373;
+		vrLoc = 0;
+	};
+	31D1E7FD103A7C570089785C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* Otohime_Prefix.pch */;
+		name = "Otohime_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 183;
+		vrLoc = 0;
+	};
+	31D1E7FE103A7C570089785C /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Otohime-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			LSRequiresIPhoneOS,
+		);
+		name = "/Users/tryout/Documents/XCode/Otohime/Otohime-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	31D1E800103A7C570089785C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 14";
+		rLen = 0;
+		rLoc = 328;
+		rType = 0;
+		vrLen = 373;
+		vrLoc = 0;
+	};
+	31D75ED11041591600333C14 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 31D75ED21041591600333C14 /* AudioServices.h */;
+		name = "AudioServices.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1138;
+		vrLoc = 2787;
+	};
+	31D75ED21041591600333C14 /* AudioServices.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = AudioServices.h;
+		path = /System/Library/Frameworks/AudioToolbox.framework/Headers/AudioServices.h;
+		sourceTree = "<absolute>";
+	};
+	31D75ED51041591600333C14 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 31D75ED61041591600333C14 /* AudioServices.h */;
+		name = "AudioServices.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1138;
+		vrLoc = 2787;
+	};
+	31D75ED61041591600333C14 /* AudioServices.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = AudioServices.h;
+		path = /System/Library/Frameworks/AudioToolbox.framework/Headers/AudioServices.h;
+		sourceTree = "<absolute>";
+	};
+	31E988AF1046A16100FC6286 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* OtohimeAppDelegate.h */;
+		name = "OtohimeAppDelegate.h: 19";
+		rLen = 0;
+		rLoc = 453;
+		rType = 0;
+		vrLen = 461;
+		vrLoc = 0;
+	};
+	31E988CD1046AA4D00FC6286 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 31E988AA10469DA800FC6286 /* Default.png */;
+	};
+	31E988CF1046AA4D00FC6286 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 31E988AA10469DA800FC6286 /* Default.png */;
+	};
+	31EF84761046AE260063877D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 31C4050C103AC2FF002E4F0D /* MainViewController.m */;
+		name = "MainViewController.m: 142";
+		rLen = 0;
+		rLoc = 3552;
+		rType = 0;
+		vrLen = 461;
+		vrLoc = 3144;
+	};
+	31EF84801046AEA90063877D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 31EF84711046ADC40063877D /* Entitlements.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			"get-task-allow",
+		);
+		name = /Users/tryout/Documents/XCode/Otohime/Entitlements.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	31EF84821046AEA90063877D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 31EF84711046ADC40063877D /* Entitlements.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			"get-task-allow",
+		);
+		name = /Users/tryout/Documents/XCode/Otohime/Entitlements.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	32CA4F630368D1EE00C91783 /* Otohime_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {528, 253}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 183}";
+		};
+	};
+	8D1107310486CEB800E47090 /* Otohime-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+}

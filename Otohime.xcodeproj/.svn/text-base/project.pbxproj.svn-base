@@ -1,0 +1,310 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* OtohimeAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* OtohimeAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
+		31446CEA103E329B00A2F7BB /* mainImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 31446CE9103E329B00A2F7BB /* mainImage.png */; };
+		31568D6F103EA8E1004CA82A /* play_button.png in Resources */ = {isa = PBXBuildFile; fileRef = 31568D6E103EA8E1004CA82A /* play_button.png */; };
+		31568D71103EA8F4004CA82A /* selected_play_button.png in Resources */ = {isa = PBXBuildFile; fileRef = 31568D70103EA8F4004CA82A /* selected_play_button.png */; };
+		31C4050D103AC2FF002E4F0D /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 31C4050C103AC2FF002E4F0D /* MainViewController.m */; };
+		31D75EF6104163DA00333C14 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 31D75EF5104163DA00333C14 /* AVFoundation.framework */; };
+		31E988AB10469DA800FC6286 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 31E988AA10469DA800FC6286 /* Default.png */; };
+		31ED55851042800E004E2DEE /* seseragi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 31ED55841042800E004E2DEE /* seseragi.mp3 */; };
+		31ED559510429683004E2DEE /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 31ED559410429683004E2DEE /* Icon.png */; };
+		31EF84721046ADC40063877D /* Entitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = 31EF84711046ADC40063877D /* Entitlements.plist */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* OtohimeAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OtohimeAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* OtohimeAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OtohimeAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* Otohime.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Otohime.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		31446CE9103E329B00A2F7BB /* mainImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = mainImage.png; path = ../../../Pictures/Otohime/mainImage.png; sourceTree = SOURCE_ROOT; };
+		31568D6E103EA8E1004CA82A /* play_button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play_button.png; sourceTree = "<group>"; };
+		31568D70103EA8F4004CA82A /* selected_play_button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = selected_play_button.png; sourceTree = "<group>"; };
+		31C4050B103AC2FF002E4F0D /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		31C4050C103AC2FF002E4F0D /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
+		31D75EF5104163DA00333C14 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		31E988AA10469DA800FC6286 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		31ED55841042800E004E2DEE /* seseragi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = seseragi.mp3; path = ../../../Pictures/Otohime/seseragi.mp3; sourceTree = SOURCE_ROOT; };
+		31ED559410429683004E2DEE /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Icon.png; path = ../../../Pictures/Otohime/Icon.png; sourceTree = SOURCE_ROOT; };
+		31EF84711046ADC40063877D /* Entitlements.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Entitlements.plist; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* Otohime_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Otohime_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* Otohime-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Otohime-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
+				31D75EF6104163DA00333C14 /* AVFoundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				1D3623240D0F684500981E51 /* OtohimeAppDelegate.h */,
+				1D3623250D0F684500981E51 /* OtohimeAppDelegate.m */,
+				31C4050B103AC2FF002E4F0D /* MainViewController.h */,
+				31C4050C103AC2FF002E4F0D /* MainViewController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* Otohime.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* Otohime_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				31E988AA10469DA800FC6286 /* Default.png */,
+				31ED559410429683004E2DEE /* Icon.png */,
+				31ED55841042800E004E2DEE /* seseragi.mp3 */,
+				31568D70103EA8F4004CA82A /* selected_play_button.png */,
+				31568D6E103EA8E1004CA82A /* play_button.png */,
+				31446CE9103E329B00A2F7BB /* mainImage.png */,
+				8D1107310486CEB800E47090 /* Otohime-Info.plist */,
+				31EF84711046ADC40063877D /* Entitlements.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				31D75EF5104163DA00333C14 /* AVFoundation.framework */,
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* Otohime */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "Otohime" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Otohime;
+			productName = Otohime;
+			productReference = 1D6058910D05DD3D006BFB54 /* Otohime.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Otohime" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* Otohime */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				31446CEA103E329B00A2F7BB /* mainImage.png in Resources */,
+				31568D6F103EA8E1004CA82A /* play_button.png in Resources */,
+				31568D71103EA8F4004CA82A /* selected_play_button.png in Resources */,
+				31ED55851042800E004E2DEE /* seseragi.mp3 in Resources */,
+				31ED559510429683004E2DEE /* Icon.png in Resources */,
+				31E988AB10469DA800FC6286 /* Default.png in Resources */,
+				31EF84721046ADC40063877D /* Entitlements.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* OtohimeAppDelegate.m in Sources */,
+				31C4050D103AC2FF002E4F0D /* MainViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Fumio Takayama (2VSWCAY2ZY)";
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Otohime_Prefix.pch;
+				INFOPLIST_FILE = "Otohime-Info.plist";
+				PRODUCT_NAME = Otohime;
+				PROVISIONING_PROFILE = "BE763B4A-0AA1-4439-92CA-1D8ED206D497";
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Otohime_Prefix.pch;
+				INFOPLIST_FILE = "Otohime-Info.plist";
+				PRODUCT_NAME = Otohime;
+			};
+			name = Release;
+		};
+		31E988C41046A93A00FC6286 /* DIstribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_ENTITLEMENTS = Entitlements.plist;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Fumio Takayama";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "1F35E0BE-CF01-4AAF-B4D1-1D5E8B4BA6DD";
+				SDKROOT = iphoneos3.0;
+			};
+			name = DIstribution;
+		};
+		31E988C51046A93A00FC6286 /* DIstribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Fumio Takayama";
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Otohime_Prefix.pch;
+				INFOPLIST_FILE = "Otohime-Info.plist";
+				PRODUCT_NAME = Otohime;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+			};
+			name = DIstribution;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Fumio Takayama";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				SDKROOT = iphoneos3.0;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "Otohime" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+				31E988C51046A93A00FC6286 /* DIstribution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = DIstribution;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Otohime" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+				31E988C41046A93A00FC6286 /* DIstribution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = DIstribution;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
